@@ -3,4 +3,5 @@ computer/saved_model/*
 computer/training_data/*
 *.npz
 *.swp
+computer/calib/*
 session.txt
